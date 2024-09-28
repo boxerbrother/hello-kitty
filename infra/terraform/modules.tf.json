@@ -7,7 +7,7 @@
       "create_function_url": true,
       "description": null,
       "environment_variables": {
-        "IMAGES_BUCKET": "Sachin-Raghuwanshi-DEVInfraDays"
+        "IMAGES_BUCKET": "sachin-raghuwanshi-99"
       },
       "event_source_arn": null,
       "event_source_mapping": [],
@@ -39,7 +39,7 @@
     },
     "appcd_551e1d2b-88ec-5406-87cf-c51521bbe894": {
       "block_public_access": true,
-      "bucket_name": "Sachin-Raghuwanshi-DEVInfraDays",
+      "bucket_name": "sachin-raghuwanshi-99",
       "bucket_policy": "",
       "enable_versioning": true,
       "enable_website_configuration": false,
