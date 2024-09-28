@@ -12,7 +12,7 @@
       "event_source_arn": null,
       "event_source_mapping": [],
       "filename": null,
-      "function_name": "hello-kitty-function-Sachin-Raghuwanshi-DEVInfraDays",
+      "function_name": "hello-kitty-function-sachin-raghuwanshi-99",
       "handler": "main.lambda_handler",
       "log_format": null,
       "log_group_name": "${module.appcd_86ec452a-770a-59bf-87dd-67ed883e25e5.name}",
@@ -53,7 +53,7 @@
       "website_index_document": "index.html"
     },
     "appcd_86ec452a-770a-59bf-87dd-67ed883e25e5": {
-      "name": "/aws/lambda/hello-kitty-function-Sachin-Raghuwanshi-DEVInfraDays",
+      "name": "/aws/lambda/hello-kitty-function-sachin-raghuwanshi-99",
       "retention_in_days": 7,
       "source": "./modules/aws_cloudwatch_log_group",
       "tags": {
@@ -73,7 +73,7 @@
       "description": null,
       "force_detach_policies": true,
       "inline_policy": [],
-      "name": "hello-kitty-role-Sachin-Raghuwanshi-DEVInfraDays",
+      "name": "hello-kitty-role-sachin-raghuwanshi-99",
       "source": "./modules/aws_iam_role",
       "tags": {
         "appstack": "SachinR-hello-kitty-demo",
